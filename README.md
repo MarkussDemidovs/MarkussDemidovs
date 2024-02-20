@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! 👋
+I am a 13 year old developer who has been coding since i was 9.
+I love tech, and i have been loving it since i recieved my first computer when i was 5.
 
-<!--
-**MarkussDemidovs/MarkussDemidovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently I'm..
+Currently I'm learning React, and learning full-stack web-development.
 
-Here are some ideas to get you started:
+# How to reach me: 
+You can write me a DM on Twitter (X) at: 
+@MarkussDemidovs or
+https://twitter.com/MarkussDemidovs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What do i know:
+I know C, C++, C# (My favourite language), Python, Ruby, Javascript, HTML + CSS,
+Kotlin, and Node JS. 
+There are many other things that i haven't listed, but i believe these are the most important ones.
