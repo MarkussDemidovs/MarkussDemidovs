@@ -14,3 +14,6 @@ https://twitter.com/MarkussDemidovs.
 I know C, C++, C# (My favourite language), Python, Ruby, Javascript, HTML + CSS,
 Kotlin, and Node JS. 
 There are many other things that i haven't listed, but i believe these are the most important ones.
+
+# Fun Fact:
+I can type 100 WPM using a QWERTY keyboard layout.
