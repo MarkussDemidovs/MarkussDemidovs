@@ -4,6 +4,7 @@ I love tech, and i have been loving it since i recieved my first computer when i
 
 # Knowledge
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,c,ts,kotlin,py,ruby)](https://skillicons.dev)
+<br>
 I'm a Software engineer, Full-Stack Web Developer, and a Game developer. 
 
 # Currently I'm..
