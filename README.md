@@ -21,7 +21,7 @@ Kotlin, and Node JS.
 There are many other things that i haven't listed, but i believe these are the most important ones.
 
 # Stats
-[![MarkussDemidovs GitHub stats](https://github-readme-stats.vercel.app/api?username=markussdemidovs)](https://github.com/markussdemidovs/github-readme-stats)
-
+[![MarkussDemidovs GitHub stats](https://github-readme-stats.vercel.app/api?username=markussdemidovs)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markussdemidovs)]
 # Fun Fact:
 I can type 100 WPM using a QWERTY keyboard layout.
