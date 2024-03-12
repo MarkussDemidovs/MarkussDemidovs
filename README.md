@@ -3,7 +3,7 @@ I am a 13 year old developer who has been coding since i was 9.
 I love tech, and i have been loving it since i recieved my first computer when i was 5.
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markussdemidovs)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markussdemidovs&layout=compact)
 [![MarkussDemidovs GitHub stats](https://github-readme-stats.vercel.app/api?username=markussdemidovs)]
 
 # Knowledge
