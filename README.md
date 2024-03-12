@@ -11,7 +11,7 @@ I love tech, and i have been loving it since i recieved my first computer when i
 [![MarkussDemidovs GitHub stats](https://github-readme-stats.vercel.app/api?username=markussdemidovs)]
 
 # Knowledge
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,c,ts,kotlin,py,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,c,ts,kotlin,py,ruby,react,ts,nodejs)](https://skillicons.dev)
 <br>
 I'm a Software engineer, Full-Stack Web Developer, and a Game developer. 
 
