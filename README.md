@@ -2,7 +2,7 @@
 
 # Hello! 👋
 I am a Software engineer, Full-Stack Web Developer, and a Game developer, who likes experimenting and creating programs which are either useless, or just fun to create.
-
+<hr>
 I am a 13 year old developer who has been coding since i was 9.
 I love tech, and i have been loving it since i recieved my first computer when i was 5.
 
